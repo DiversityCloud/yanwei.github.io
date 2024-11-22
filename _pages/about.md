@@ -42,4 +42,11 @@ Gaoyong Han, Zhiyong Feng, Yanwei Xu, et al., 2023 IEEE International Conference
 8. Evolving Graph Contrastive Learning for Socially-aware Recommendation
 Hongqi Chen, Zhiyong Feng, Yanwei Xu, et al., 2023 IEEE International Conference on Web Services (ICWS), IEEE, 2023: 563–572.
 
+9. Capturing Users’ Fresh Interests via Evolving Session-Based Social Recommendation, Hongqi Chen, Zhiyong Feng ,.., Yanwei Xu. The 28th IEEE International Conference onWeb Services (ICWS), 2022 :1-6.
+    
+10. A Smart Data Driven Multi-Level Synchronous Digital Twin Model for Vehicle-Assisted Driving, Jianhang Liu,..., Yanwei Xu et al. IEEE Transactions on Consumer Electronics, 2023:1-13.
+
+11. Paper Towards evolving software recommendation with time-sliced social and behavioral information,
+Hongqi Chen, Zhiyong feng ,.., Yanwei Xu et al. Applied Intelligence,2023, 53(21): 25343-25358.
+
 
