@@ -15,7 +15,7 @@ I am a postdoctoral researcher at the [School of EECS](https://eecs.pku.edu.cn/)
 
 ---
 
-title: "publications"
+title: "Publications"
 
 ---
 1. Attention-based neural networks for trust evaluation in online social networks,
