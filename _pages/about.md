@@ -11,6 +11,8 @@ I am a postdoctoral researcher at the [School of EECS](https://eecs.pku.edu.cn/)
 
  I am fortunate to work under the mentorship of [Prof.Bin Cui](https://cuibinpku.github.io/papers.html) at [PKU-DAIR Lab](https://github.com/PKU-DAIR)
 
+ [Email](yanwei.xu@pku.edu.cn) [Github](https://github.com/DiversityCloud) [Researchgate](https://www.researchgate.net/profile/Yanwei-Xu-3) 
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
