@@ -21,9 +21,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-1. Attention-based neural networks for trust evaluation in online social networks 2023
-Yanwei Xu, Zhiyong Feng, Xian Zhou,Meng Xing, HongyueWu*, et al., Information Sciences, 630 : 507–522,
-2023.
+1. Attention-based neural networks for trust evaluation in online social networks,
+Yanwei Xu, Zhiyong Feng, Xian Zhou,Meng Xing, HongyueWu*, et al., Information Sciences, 630 : 507–522, 2023.
 2. Metapath-guided Multi-Headed Attention Networks for Trust Prediction 2023
 Yanwei Xu,Zhiyong Feng, Xiao Xue, Shizhan Chen, Hongyue Wu, et al. , . Knowledge-Based Systems282
 (2023) 111119: 1-12, 2023.
