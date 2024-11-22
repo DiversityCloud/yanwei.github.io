@@ -11,7 +11,7 @@ I graduated with a Ph.D. from the College of Intelligence and Computing at Tianj
 
  I am fortunate to work under the mentorship of [Prof.Bin Cui](https://cuibinpku.github.io/papers.html) at [PKU-DAIR Lab](https://github.com/PKU-DAIR)
 
- [Email](yanwei.xu@pku.edu.cn) [Github](https://github.com/DiversityCloud) [Researchgate](https://www.researchgate.net/profile/Yanwei-Xu-3) 
+ [Email](mailto: yanwei.xu@pku.edu.cn) [Github](https://github.com/DiversityCloud) [Researchgate](https://www.researchgate.net/profile/Yanwei-Xu-3) 
 
 ---
 
