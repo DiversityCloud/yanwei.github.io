@@ -30,23 +30,23 @@ Yanwei Xu, Zhiyong Feng, Xiao Xue, Shizhan Chen, Hongyue Wu*, et al., The 28th I
 4. Review on the Development of Microservice Architecture
 Feng Zhiyong, Xu Yanwei, Xue Xiao, Chen Shizhan, Journal of Computer Research and Development, 2019: 1103–1122.
 
-5. [Privacy-Preserving and Scalable Service Recommendation Based on SimHash in a Distributed Cloud ]Environment(https://onlinelibrary.wiley.com/doi/10.1155/2017/3437854)
+5. [Privacy-Preserving and Scalable Service Recommendation Based on SimHash in a Distributed Cloud Environment ](https://onlinelibrary.wiley.com/doi/10.1155/2017/3437854)
 Yanwei Xu, Lianyong Qi*, Wanchun Dou, Jiguo Yu, Complexity, 2017: 1–9.
 
-6. SimHash-Based Similar Neighbor Finding for Scalable and Privacy-Preserving Service Recommendation
+6. [SimHash-Based Similar Neighbor Finding for Scalable and Privacy-Preserving Service Recommendation](https://link.springer.com/chapter/10.1007/978-3-319-68542-7_10)
 Yanwei Xu, Lianyong Qi*, International Conference on Cloud Computing and Security, 2017: 113–122.
 
-7. Building a Decentralized Crowdsourcing System with Blockchain as a Service
+7. [Building a Decentralized Crowdsourcing System with Blockchain as a Service](https://ieeexplore.ieee.org/document/10248301)
 Gaoyong Han, Zhiyong Feng, Yanwei Xu, et al., 2023 IEEE International Conference on Web Services (ICWS), IEEE, 2023: 196–205.
 
-8. Evolving Graph Contrastive Learning for Socially-aware Recommendation
+8. [Evolving Graph Contrastive Learning for Socially-aware Recommendation](https://ieeexplore.ieee.org/document/10248312)
 Hongqi Chen, Zhiyong Feng, Yanwei Xu, et al., 2023 IEEE International Conference on Web Services (ICWS), IEEE, 2023: 563–572.
 
-9. Capturing Users’ Fresh Interests via Evolving Session-Based Social Recommendation, Hongqi Chen, Zhiyong Feng ,.., Yanwei Xu. The 28th IEEE International Conference onWeb Services (ICWS), 2022 :1-6.
+9. [Capturing Users’ Fresh Interests via Evolving Session-Based Social Recommendation](https://ieeexplore.ieee.org/document/9885271)  Hongqi Chen, Zhiyong Feng ,.., Yanwei Xu. The 28th IEEE International Conference onWeb Services (ICWS), 2022 :1-6.
     
-10. A Smart Data Driven Multi-Level Synchronous Digital Twin Model for Vehicle-Assisted Driving, Jianhang Liu,..., Yanwei Xu et al. IEEE Transactions on Consumer Electronics, 2023:1-13.
+10. [A Smart Data Driven Multi-Level Synchronous Digital Twin Model for Vehicle-Assisted Driving](https://ieeexplore.ieee.org/document/10356772), Jianhang Liu,..., Yanwei Xu et al. IEEE Transactions on Consumer Electronics, 2023:1-13.
 
-11. Paper Towards evolving software recommendation with time-sliced social and behavioral information,
+11. [Towards evolving software recommendation with time-sliced social and behavioral information](https://link.springer.com/article/10.1007/s10489-023-04852-6),
 Hongqi Chen, Zhiyong feng ,.., Yanwei Xu et al. Applied Intelligence,2023, 53(21): 25343-25358.
 
 
