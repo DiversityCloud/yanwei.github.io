@@ -29,7 +29,7 @@ Yanwei Xu, Zhiyong Feng, Xiao Xue, Shizhan Chen, Hongyue Wu, et al., Knowledge-B
 3. [MemTrust: Find Deep Trust in Your Mind](https://ieeexplore.ieee.org/abstract/document/9590222)
 Yanwei Xu, Zhiyong Feng, Xiao Xue, Shizhan Chen, Hongyue Wu*, et al., The 28th IEEE International Conference on Web Services (ICWS), 2021: 598–607.
 
-4. Review on the Development of Microservice Architecture
+4. [Review on the Development of Microservice Architecture](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=02Lqil0AAAAJ&citation_for_view=02Lqil0AAAAJ:YsMSGLbcyi4C)
 Feng Zhiyong, Xu Yanwei, Xue Xiao, Chen Shizhan, Journal of Computer Research and Development, 2019: 1103–1122.
 
 5. [Privacy-Preserving and Scalable Service Recommendation Based on SimHash in a Distributed Cloud Environment ](https://onlinelibrary.wiley.com/doi/10.1155/2017/3437854)
