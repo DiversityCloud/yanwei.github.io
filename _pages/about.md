@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research topic focuses on online social networks, recommendation systems, and machine learning.
+I received my Ph.D. in 2024 from the College of Intelligence and Computing, Tianjin University, China. Currently, I am a postdoctoral researcher at the [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research topic focuses on online social networks, recommendation systems, and machine learning.
 
  I am fortunate to work under the mentorship of [Prof.Bin Cui](https://cuibinpku.github.io/papers.html) at [PKU-DAIR Lab](https://github.com/PKU-DAIR)
 
