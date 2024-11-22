@@ -14,12 +14,9 @@ I am a postdoctoral researcher at the [School of EECS](https://eecs.pku.edu.cn/)
  [Email](yanwei.xu@pku.edu.cn) [Github](https://github.com/DiversityCloud) [Researchgate](https://www.researchgate.net/profile/Yanwei-Xu-3) 
 
 ---
-permalink: /
+
 title: "publications"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
 ---
 1. Attention-based neural networks for trust evaluation in online social networks,
 Yanwei Xu, Zhiyong Feng, Xian Zhou,Meng Xing, HongyueWu*, et al., Information Sciences, 630 : 507–522, 2023.
