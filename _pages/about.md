@@ -18,7 +18,7 @@ Publications
 ---
 
 
-1.[ Attention-based Neural Networks for Trust Evaluation in Online Social Networks](https://www.sciencedirect.com/science/article/abs/pii/S0020025523002396)
+1. [Attention-based Neural Networks for Trust Evaluation in Online Social Networks](https://www.sciencedirect.com/science/article/abs/pii/S0020025523002396)
 Yanwei Xu, Zhiyong Feng, Xian Zhou, Meng Xing, Hongyue Wu*, et al., Information Sciences, 630: 507–522, 2023.
 
 2. [Metapath-guided Multi-Headed Attention Networks for Trust Prediction](https://www.sciencedirect.com/science/article/abs/pii/S0950705123008699)
