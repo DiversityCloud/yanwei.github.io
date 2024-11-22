@@ -21,3 +21,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
+1. Attention-based neural networks for trust evaluation in online social networks 2023
+Yanwei Xu, Zhiyong Feng, Xian Zhou,Meng Xing, HongyueWu*, et al., Information Sciences, 630 : 507–522,
+2023.
+2. Metapath-guided Multi-Headed Attention Networks for Trust Prediction 2023
+Yanwei Xu,Zhiyong Feng, Xiao Xue, Shizhan Chen, Hongyue Wu, et al. , . Knowledge-Based Systems282
+(2023) 111119: 1-12, 2023.
+3. MemTrust: Find Deep Trust in Your Mind. 2021
+4. Yanwei Xu, Zhiyong Feng, Xiao Xue, Shizhan Chen, Hongyue Wu*, et al., The 28th IEEE International Conference
+onWeb Services (ICWS), 2021 :598-607.
+5. Review on the Development of Microservice Architecture 2019
+Feng Zhiyong, Xu Yanwei, Xue Xiao, Chen Shizhan. Journal of Computer Research and
+Development.2019:1103-1122. 
+
+
+
