@@ -28,9 +28,15 @@ Yanwei Xu, Zhiyong Feng, Xian Zhou,Meng Xing, HongyueWu*, et al., Information Sc
 Yanwei Xu,Zhiyong Feng, Xiao Xue, Shizhan Chen, Hongyue Wu, et al. , . Knowledge-Based Systems282
 (2023) 111119: 1-12, 2023.
 3. MemTrust: Find Deep Trust in Your Mind. 2021. Yanwei Xu, Zhiyong Feng, Xiao Xue, Shizhan Chen, Hongyue Wu*, et al., The 28th IEEE International Conference on Web Services (ICWS), 2021 :598-607.
-5. Review on the Development of Microservice Architecture 2019
-Feng Zhiyong, Xu Yanwei, Xue Xiao, Chen Shizhan. Journal of Computer Research and
-Development.2019:1103-1122. 
-
+5. Review on the Development of Microservice Architecture 2019. Feng Zhiyong, Xu Yanwei, Xue Xiao, Chen Shizhan. Journal of Computer Research and Development.2019:1103-1122.
+6. Privacy-Preserving and Scalable Service Recommendation Based on SimHash in a Distributed Cloud
+Environment 2017. Yanwei Xu, Lianyong Qi*,Wanchun Dou, Jiguo Yu Complexity, 2017:1-9.
+7. SimHash-Based Similar Neighbor Finding for Scalable and Privacy-Preserving Service Recommendation. Yanwei Xu, Lianyong Qi*. International Conference on Cloud Computing and Security, 2017: 113-122.
+8. Building a Decentralized Crowdsourcing System with Blockchain as a Service.
+Gaoyong Han, Zhiyong Feng, Yanwei Xu, et al. 2023 IEEE International Conference onWeb Services (ICWS).
+IEEE, 2023: 196-205.
+9. Evolving Graph Contrastive Learning for Socially-aware Recommendation 2023
+Hongqi Chen, Zhiyong Feng ,.., Yanwei Xu et al. 2023 IEEE International Conference onWeb Services (ICWS).
+IEEE, 2023: 563-572.
 
 
