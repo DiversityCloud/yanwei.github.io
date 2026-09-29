@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I graduated with a Ph.D. from the College of Intelligence and Computing at Tianjin University, China, in June 2024. Currently, I am a postdoctoral researcher at the [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research topic focuses on online social networks, recommendation systems, and machine learning.
+I am currently a University-appointed Associate Professor at the School of Computer and Information (School of Artificial Intelligence), Anhui Normal University. I received my Ph.D. from the College of Intelligence and Computing at Tianjin University in June 2024. Previously, I was a postdoctoral researcher at the School of EECS, Peking University, where I worked with [Prof.Bin Cui](https://cuibinpku.github.io/papers.html) at [PKU-DAIR Lab](https://github.com/PKU-DAIR). My research interests include online social networks, recommender systems, and machine learning.
 
- I am fortunate to work under the mentorship of [Prof.Bin Cui](https://cuibinpku.github.io/papers.html) at [PKU-DAIR Lab](https://github.com/PKU-DAIR)
 
  [Google scholar](https://scholar.google.com/citations?hl=en&user=02Lqil0AAAAJ) [Github](https://github.com/DiversityCloud) [Researchgate](https://www.researchgate.net/profile/Yanwei-Xu-3)  [Email](mailto: yanwei.xu@pku.edu.cn)
 
@@ -18,37 +17,47 @@ I graduated with a Ph.D. from the College of Intelligence and Computing at Tianj
 Publications
  
 ---
+1. Yanwei Xu, Ye Tian, Fangcheng Fu, Peichao Lai, Guoli Wu, Lianyong Qi, Bin Cui*. Collaborative-Guided Diffusion for Sequential Recommendation. IEEE Transactions on
+Knowledge and Data Engineering, 2026. DOI: 10.1109/TKDE.2026.3722938.
 
+2. Yanwei Xu, Yifei Xia, Fangcheng Fu, Gaoyong Han, Peichao Lai, Bin Cui*. Social-guided Conditional Diffusion Modeling for Robust Social Recommendation. Science China Information
+Sciences, 2026. DOI: 10.1007/s11432-025-5184-8.
 
-1. [Attention-based Neural Networks for Trust Evaluation in Online Social Networks](https://www.sciencedirect.com/science/article/abs/pii/S0020025523002396)
+3. Yanwei Xu, Zhiyong Feng, et al. Collaborative Trust Evaluation with Relative Attention in Evolving Online Social Networks [J]. IEEE Transactions on
+Computational Social Systems, 2025: 1-13. 
+
+4. Yanwei Xu, Yifei Xia, Bin Cui, et al. Flow Matching with Collaborative Contexts and Variational Interests for POI Recommendation . 2026 IEEE International
+Conference on Web Services. 2026: 1-11. DOI:10.1109/ICWS72778.2026.00059.
+
+5. [Attention-based Neural Networks for Trust Evaluation in Online Social Networks](https://www.sciencedirect.com/science/article/abs/pii/S0020025523002396)
 Yanwei Xu, Zhiyong Feng, Xian Zhou, Meng Xing, Hongyue Wu*, et al., Information Sciences, 630: 507–522, 2023.
 
-2. [Metapath-guided Multi-Headed Attention Networks for Trust Prediction](https://www.sciencedirect.com/science/article/abs/pii/S0950705123008699)
+6. [Metapath-guided Multi-Headed Attention Networks for Trust Prediction](https://www.sciencedirect.com/science/article/abs/pii/S0950705123008699)
 Yanwei Xu, Zhiyong Feng, Xiao Xue, Shizhan Chen, Hongyue Wu, et al., Knowledge-Based Systems, 282 (2023) 111119: 1–12, 2023.
 
-3. [MemTrust: Find Deep Trust in Your Mind](https://ieeexplore.ieee.org/abstract/document/9590222)
+7. [MemTrust: Find Deep Trust in Your Mind](https://ieeexplore.ieee.org/abstract/document/9590222)
 Yanwei Xu, Zhiyong Feng, Xiao Xue, Shizhan Chen, Hongyue Wu*, et al., The 28th IEEE International Conference on Web Services (ICWS), 2021: 598–607.
 
-4. [Review on the Development of Microservice Architecture](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=02Lqil0AAAAJ&citation_for_view=02Lqil0AAAAJ:YsMSGLbcyi4C)
+8. [Review on the Development of Microservice Architecture](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=02Lqil0AAAAJ&citation_for_view=02Lqil0AAAAJ:YsMSGLbcyi4C)
 Feng Zhiyong, Xu Yanwei, Xue Xiao, Chen Shizhan, Journal of Computer Research and Development, 2019: 1103–1122.
 
-5. [Privacy-Preserving and Scalable Service Recommendation Based on SimHash in a Distributed Cloud Environment ](https://onlinelibrary.wiley.com/doi/10.1155/2017/3437854)
+9. [Privacy-Preserving and Scalable Service Recommendation Based on SimHash in a Distributed Cloud Environment ](https://onlinelibrary.wiley.com/doi/10.1155/2017/3437854)
 Yanwei Xu, Lianyong Qi*, Wanchun Dou, Jiguo Yu, Complexity, 2017: 1–9.
 
-6. [SimHash-Based Similar Neighbor Finding for Scalable and Privacy-Preserving Service Recommendation](https://link.springer.com/chapter/10.1007/978-3-319-68542-7_10)
+10. [SimHash-Based Similar Neighbor Finding for Scalable and Privacy-Preserving Service Recommendation](https://link.springer.com/chapter/10.1007/978-3-319-68542-7_10)
 Yanwei Xu, Lianyong Qi*, International Conference on Cloud Computing and Security, 2017: 113–122.
 
-7. [Building a Decentralized Crowdsourcing System with Blockchain as a Service](https://ieeexplore.ieee.org/document/10248301)
+11. [Building a Decentralized Crowdsourcing System with Blockchain as a Service](https://ieeexplore.ieee.org/document/10248301)
 Gaoyong Han, Zhiyong Feng, Yanwei Xu, et al., 2023 IEEE International Conference on Web Services (ICWS), IEEE, 2023: 196–205.
 
-8. [Evolving Graph Contrastive Learning for Socially-aware Recommendation](https://ieeexplore.ieee.org/document/10248312)
+12. [Evolving Graph Contrastive Learning for Socially-aware Recommendation](https://ieeexplore.ieee.org/document/10248312)
 Hongqi Chen, Zhiyong Feng, Yanwei Xu, et al., 2023 IEEE International Conference on Web Services (ICWS), IEEE, 2023: 563–572.
 
-9. [Capturing Users’ Fresh Interests via Evolving Session-Based Social Recommendation](https://ieeexplore.ieee.org/document/9885271)  Hongqi Chen, Zhiyong Feng ,.., Yanwei Xu. The 28th IEEE International Conference onWeb Services (ICWS), 2022 :1-6.
+13. [Capturing Users’ Fresh Interests via Evolving Session-Based Social Recommendation](https://ieeexplore.ieee.org/document/9885271)  Hongqi Chen, Zhiyong Feng ,.., Yanwei Xu. The 28th IEEE International Conference onWeb Services (ICWS), 2022 :1-6.
     
-10. [A Smart Data Driven Multi-Level Synchronous Digital Twin Model for Vehicle-Assisted Driving](https://ieeexplore.ieee.org/document/10356772), Jianhang Liu,..., Yanwei Xu et al. IEEE Transactions on Consumer Electronics, 2023:1-13.
+14. [A Smart Data Driven Multi-Level Synchronous Digital Twin Model for Vehicle-Assisted Driving](https://ieeexplore.ieee.org/document/10356772), Jianhang Liu,..., Yanwei Xu et al. IEEE Transactions on Consumer Electronics, 2023:1-13.
 
-11. [Towards evolving software recommendation with time-sliced social and behavioral information](https://link.springer.com/article/10.1007/s10489-023-04852-6),
+15. [Towards evolving software recommendation with time-sliced social and behavioral information](https://link.springer.com/article/10.1007/s10489-023-04852-6),
 Hongqi Chen, Zhiyong feng ,.., Yanwei Xu et al. Applied Intelligence,2023, 53(21): 25343-25358.
 
 
