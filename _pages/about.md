@@ -106,12 +106,11 @@ Publications
     <a href="https://ieeexplore.ieee.org/document/10356772">A Smart Data Driven Multi-Level Synchronous Digital Twin Model for Vehicle-Assisted Driving</a>.
     <em>IEEE Transactions on Consumer Electronics</em>, 2023: 1–13.
   </li>
-</ol>
 
   <li>
     Hongqi Chen, Zhiyong Feng, …, Yanwei Xu, et al.
     <a href="https://link.springer.com/article/10.1007/s10489-023-04852-6">Towards evolving software recommendation with time-sliced social and behavioral information</a>.
     <em>Applied Intelligence</em>, 53(21): 25343–25358, 2023.
   </li>
-
+</ol>
 
