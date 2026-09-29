@@ -71,7 +71,7 @@ Publications
     <em>Journal of Computer Research and Development</em>, 2019: 1103–1122.
   </li>
   
-    <li>
+  <li>
     Fan Wang, Lianyong Qi, Weiming Liu, Bowen Yu, Jintao Chen, Yanwei Xu.
     <a href="https://doi.org/10.1145/3722104">Inter- and Intra-Similarity Preserved Counterfactual Incentive Effect Estimation for Recommendation Systems</a>.
     <em>ACM Transactions on Information Systems</em>, 43(6): 148:1–148:24, 2025.
