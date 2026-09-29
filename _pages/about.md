@@ -17,17 +17,15 @@ I am currently a University-appointed Associate Professor at the School of Compu
 Publications
  
 ---
-1. Yanwei Xu, Ye Tian, Fangcheng Fu, Peichao Lai, Guoli Wu, Lianyong Qi, Bin Cui*. Collaborative-Guided Diffusion for Sequential Recommendation. IEEE Transactions on
-Knowledge and Data Engineering, 2026. DOI: 10.1109/TKDE.2026.3722938.
+<ol style="text-align: justify;">
+  <li>Yanwei Xu, Ye Tian, Fangcheng Fu, Peichao Lai, Guoli Wu, Lianyong Qi, Bin Cui*. Collaborative-Guided Diffusion for Sequential Recommendation. <em>IEEE Transactions on Knowledge and Data Engineering</em>, 2026. DOI: 10.1109/TKDE.2026.3722938.</li>
 
-2. Yanwei Xu, Yifei Xia, Fangcheng Fu, Gaoyong Han, Peichao Lai, Bin Cui*. Social-guided Conditional Diffusion Modeling for Robust Social Recommendation. Science China Information
-Sciences, 2026. DOI: 10.1007/s11432-025-5184-8.
+  <li>Yanwei Xu, Yifei Xia, Fangcheng Fu, Gaoyong Han, Peichao Lai, Bin Cui*. Social-guided Conditional Diffusion Modeling for Robust Social Recommendation. <em>Science China Information Sciences</em>, 2026. DOI: 10.1007/s11432-025-5184-8.</li>
 
-3. Yanwei Xu, Zhiyong Feng, et al. Collaborative Trust Evaluation with Relative Attention in Evolving Online Social Networks [J]. IEEE Transactions on
-Computational Social Systems, 2025: 1-13. 
+  <li>Yanwei Xu, Zhiyong Feng, et al. Collaborative Trust Evaluation with Relative Attention in Evolving Online Social Networks. <em>IEEE Transactions on Computational Social Systems</em>, 2025: 1–13.</li>
 
-4. Yanwei Xu, Yifei Xia, Bin Cui, et al. Flow Matching with Collaborative Contexts and Variational Interests for POI Recommendation . 2026 IEEE International
-Conference on Web Services. 2026: 1-11. DOI:10.1109/ICWS72778.2026.00059.
+  <li>Yanwei Xu, Yifei Xia, Bin Cui, et al. Flow Matching with Collaborative Contexts and Variational Interests for POI Recommendation. <em>2026 IEEE International Conference on Web Services</em>, 2026: 1–11. DOI: 10.1109/ICWS72778.2026.00059.</li>
+</ol>
 
 5. [Attention-based Neural Networks for Trust Evaluation in Online Social Networks](https://www.sciencedirect.com/science/article/abs/pii/S0020025523002396)
 Yanwei Xu, Zhiyong Feng, Xian Zhou, Meng Xing, Hongyue Wu*, et al., Information Sciences, 630: 507–522, 2023.
