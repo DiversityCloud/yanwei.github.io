@@ -70,6 +70,24 @@ Publications
     <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=02Lqil0AAAAJ&amp;citation_for_view=02Lqil0AAAAJ:YsMSGLbcyi4C">Review on the Development of Microservice Architecture</a>.
     <em>Journal of Computer Research and Development</em>, 2019: 1103–1122.
   </li>
+  
+    <li>
+    Fan Wang, Lianyong Qi, Weiming Liu, Bowen Yu, Jintao Chen, Yanwei Xu.
+    <a href="https://doi.org/10.1145/3722104">Inter- and Intra-Similarity Preserved Counterfactual Incentive Effect Estimation for Recommendation Systems</a>.
+    <em>ACM Transactions on Information Systems</em>, 43(6): 148:1–148:24, 2025.
+  </li>
+
+  <li>
+    Xiaolong Xu, Hongsheng Dong, Lianyong Qi, Xuyun Zhang, Haolong Xiang, Xiaoyu Xia, Yanwei Xu, Wanchun Dou.
+    <a href="https://doi.org/10.1145/3626772.3657839">CMCLRec: Cross-modal Contrastive Learning for User Cold-start Sequential Recommendation</a>.
+    <em>Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval</em>, 2024: 1589–1598.
+  </li>
+
+  <li>
+    Xiaotong Wu, Yan Ding, Xiaokang Zhou, Yanwei Xu, Shoujin Wang, Xiaolong Xu, Lianyong Qi.
+    <a href="https://ieeexplore.ieee.org/document/10638720/">Fuzzy Federated Learning for Privacy-Preserving Detection of Adolescent Idiopathic Scoliosis</a>.
+    <em>IEEE Transactions on Fuzzy Systems</em>, 32(10): 5493–5507, 2024.
+  </li>
 
   <li>
     Yanwei Xu, Lianyong Qi*, Wanchun Dou, Jiguo Yu.
